@@ -6,6 +6,8 @@ public enum Waits {
 	
 	// Added comments
 	
+	// comment by tester
+	
 	private long waitTime;
 	
 	private Waits(long waitTime) {
